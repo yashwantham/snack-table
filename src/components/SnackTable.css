@@ -1,0 +1,8 @@
+.snacktable-page-container {
+    text-align: left;
+    padding: 2rem;
+}
+
+th {
+    cursor: pointer;
+}
